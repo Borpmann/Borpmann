@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Borpmann and I'm a noob Programmer.
 - 👀 I’m interested in the C,Assembly and in TempleOS.
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently studying C.
 - 👤 I know some basic stuff of Python,C,Vim,Gnu/Linux and a few other things.
 - 💞️ For the moment I'm not looking to collaborate with a Project.
 - 📫 You can reach me by Email:Workmann123@proton.me.
